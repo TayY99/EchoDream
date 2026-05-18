@@ -1,17 +1,34 @@
-# echo_dream
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # EchoDream
+
+Psychological horror/dream journal prototype built to explore surreal UI interactions and mood-focused mobile design.
+
+## Status
+Prototype / On Hiatus
+
+## About
+EchoDream is an experimental Flutter application focused on dream logging, surreal presentation, and psychological horror themes.
+
+The project was created as a prototype to explore:
+- Atmospheric mobile UI
+- Interactive journal systems
+- Horror-inspired app design
+- Experimental user interaction flow
+
+## Features
+- Dream journal concept
+- Mobile-first UI
+- Experimental horror atmosphere
+- Prototype interaction systems
+
+## Tech Used
+- Flutter
+- Dart
+
+## Future Ideas
+- AI-generated dream responses
+- Distorted audio effects
+- Dynamic nightmare events
+- Expanded story systems
+
+## Developer Notes
+This project remains a prototype/experimental concept and is currently on hiatus while other projects are being explored.
