@@ -1,4 +1,4 @@
-# EchoDream
+# EchoDream - Hiatus
 
 Psychological horror/dream journal prototype built to explore surreal UI interactions and mood-focused mobile design.
 
