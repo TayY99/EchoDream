@@ -23,6 +23,8 @@ The project was created as a prototype to explore:
 ## Tech Used
 - Flutter
 - Dart
+- OpenAI API concept
+- Google TTS concept
 
 ## Future Ideas
 - AI-generated dream responses
